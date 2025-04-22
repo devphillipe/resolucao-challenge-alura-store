@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução do desafio de **análise de dados com Python e Pandas** proposto no Challenge da **Alura Store**.
 
-> 📚 Atividade prática desenvolvida através da plataforma [Alura](https://www.alura.com.br/) como parte do programa de formação em Ciência de Dados.
+> 📚 Atividade prática desenvolvida através da plataforma [Alura](https://www.alura.com.br/) como parte do programa de formação em Ciência de Dados no programa Oracle One.
 
 ---
 
